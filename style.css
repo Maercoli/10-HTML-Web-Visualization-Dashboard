@@ -14,7 +14,7 @@ nav {
     line-height: 48px;
     padding: 10px 30px;
     background-color: darkcyan;
-}
+    }
 
 nav ul li a {
     display: block;
@@ -58,7 +58,7 @@ img{
 
 h1{
     font-size: 16px;
-    color:darkblue;
+    color:darkcyan;
     font-family: 'Times New Roman', Times, serif;
     margin-top: 30px;
     margin-bottom: 35px;
@@ -67,7 +67,7 @@ h1{
 
 h2{
     font-size: 14px;
-    color: darkblue;
+    color: darkcyan;
     font-family: 'Times New Roman', Times, serif;
     margin-top: 30px;
     margin-bottom: 35px;
