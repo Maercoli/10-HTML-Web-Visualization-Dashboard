@@ -36,4 +36,10 @@ At the top of every page you have a navigation menu that:
 
 Homepage preview:
 
+![home_page](./assets/images/home_page.gif)
 
+
+Feel free to contact me if you have any questions.
+
+Marina Ercoli
+maercoli2017@gmail.com
