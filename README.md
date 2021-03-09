@@ -1,16 +1,14 @@
-# Web Design - Web Visualization Dashboard (Latitude)
+# Web Visualization Dashboard (Latitude)
 
-## Background
-
-Data is more powerful when we share it with others! Let's create a dashboard showing off the analysis we've done.
+Because Data is more powerful when we share it with others!  The goal of this project is to use HTML and CSS to create a dashboard showing off the analysis. 
 
 ## Latitude - Latitude Analysis Dashboard with Attitude
 
-For this task I created a visualization dashboard website using visualizations from [weather data](Resources/cities.csv).
+I created a visualization dashboard website using visualizations from [weather data](Resources/cities.csv).
 
-In building this dashboard, I created individual pages for each plot and a means by which you can navigate between them. These pages contain the visualizations and their corresponding explanations. I also have a landing page, a page where you can see a comparison of all of the plots, and another page where you can view the data used to build them.
+In building this dashboard, I created individual pages for each plot and a means by which you can navigate between them. These pages contain the visualizations and their corresponding explanations. I also have a landing page, a page where we can see a comparison of all of the plots, and another page where we can view the data used to build them.
 
-### Website
+### Website 
 
 The website consist of 7 pages total, including:
 
@@ -30,13 +28,12 @@ The website consist of 7 pages total, including:
     * The table must be a bootstrap table component. [Hint](https://getbootstrap.com/docs/4.3/content/tables/#responsive-tables)
     * The data must come from exporting the `.csv` file as HTML, or converting it to HTML. Try using a tool you already know, pandas. Pandas has a nifty method approprately called `to_html` that allows you to generate a HTML table from a pandas dataframe. See the documentation [here](https://pandas.pydata.org/pandas-docs/version/0.17.0/generated/pandas.DataFrame.to_html.html)
 
-At the top of every page there is a navigation menu that:
+At the top of every page you have a navigation menu that:
 
 * Has the name of the site on the left of the nav which allows users to return to the landing page from any page.
 * Contains a dropdown menu on the right of the navbar named "Plots" that provides a link to each individual visualization page.
 * Provides two more text links on the right: "Comparisons," which links to the comparisons page, and "Data," which links to the data page.
-* Is responsive (using media queries). The nav must have similar behavior as the screenshots ["Navigation Menu" section](#navigation-menu) (notice the background color change).
 
-
+Homepage preview:
 
 
